@@ -7,10 +7,11 @@ assignees: ''
 
 ---
 
-# Name: [name](link)
+## Link: 
+{URL}
 
 ## Authors:
-{author name}
-{author name}
+* Name
+* Name
 
 ## Related drafts
